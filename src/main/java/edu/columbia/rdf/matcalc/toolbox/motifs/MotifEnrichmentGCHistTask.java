@@ -16,9 +16,9 @@ import org.jebtk.math.matrix.DataFrame;
 import org.jebtk.math.statistics.HistBin;
 import org.jebtk.math.statistics.Statistics;
 
+import dev.antonyholmes.matcalc.bio.SearchSequence;
+import dev.antonyholmes.matcalc.bio.SequenceUtils;
 import edu.columbia.rdf.matcalc.MainMatCalcWindow;
-import edu.columbia.rdf.matcalc.bio.SearchSequence;
-import edu.columbia.rdf.matcalc.bio.SequenceUtils;
 
 public class MotifEnrichmentGCHistTask extends SwingWorker<Void, Void> {
 

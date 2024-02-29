@@ -38,8 +38,8 @@ import org.jebtk.core.stream.StringMapFunction;
 import org.jebtk.core.text.TextUtils;
 import org.jebtk.math.matrix.DataFrame;
 
+import dev.antonyholmes.matcalc.bio.Annotation;
 import edu.columbia.rdf.matcalc.MainMatCalcWindow;
-import edu.columbia.rdf.matcalc.bio.Annotation;
 
 /**
  * Performs a one way overlap between two files. The structure of the first file

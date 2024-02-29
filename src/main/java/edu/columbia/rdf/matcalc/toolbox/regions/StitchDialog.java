@@ -4,6 +4,8 @@ import javax.swing.Box;
 
 import org.jebtk.bioinformatics.genomic.Genome;
 import org.jebtk.core.settings.SettingsService;
+
+import dev.antonyholmes.matcalc.bio.AnnotationSidePanel;
 import dev.antonyholmes.modern.UI;
 import dev.antonyholmes.modern.Validation;
 import dev.antonyholmes.modern.ValidationException;
@@ -18,8 +20,6 @@ import dev.antonyholmes.modern.spinner.ModernCompactSpinner;
 import dev.antonyholmes.modern.text.ModernAutoSizeLabel;
 import dev.antonyholmes.modern.window.ModernWindow;
 import dev.antonyholmes.modern.window.WindowWidgetFocusEvents;
-
-import edu.columbia.rdf.matcalc.bio.AnnotationSidePanel;
 
 /**
  * Control which conservation scores are shown.

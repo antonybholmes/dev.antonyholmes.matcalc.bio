@@ -11,6 +11,8 @@ import javax.swing.Box;
 import org.jebtk.bioinformatics.gapsearch.BinaryGapSearch;
 import org.jebtk.bioinformatics.genomic.Genome;
 import org.jebtk.core.io.PathUtils;
+
+import dev.antonyholmes.matcalc.bio.Annotation;
 import dev.antonyholmes.modern.ModernComponent;
 import dev.antonyholmes.modern.UI;
 import dev.antonyholmes.modern.button.ModernButtonGroup;
@@ -22,8 +24,6 @@ import dev.antonyholmes.modern.event.ModernClickListener;
 import dev.antonyholmes.modern.panel.VBox;
 import dev.antonyholmes.modern.window.ModernWindow;
 import dev.antonyholmes.modern.window.WindowWidgetFocusEvents;
-
-import edu.columbia.rdf.matcalc.bio.Annotation;
 
 public class EnhancerDialog extends ModernDialogTaskWindow {
   private static final long serialVersionUID = 1L;

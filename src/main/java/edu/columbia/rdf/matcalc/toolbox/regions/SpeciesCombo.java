@@ -3,10 +3,10 @@ package edu.columbia.rdf.matcalc.toolbox.regions;
 import java.io.IOException;
 
 import org.jebtk.bioinformatics.genomic.Genome;
+
+import dev.antonyholmes.matcalc.bio.AnnotationService;
 import dev.antonyholmes.modern.UI;
 import dev.antonyholmes.modern.combobox.ModernComboBox;
-
-import edu.columbia.rdf.matcalc.bio.AnnotationService;
 
 public class SpeciesCombo extends ModernComboBox {
 

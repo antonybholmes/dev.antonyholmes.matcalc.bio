@@ -6,6 +6,8 @@ import java.util.List;
 import javax.swing.Box;
 
 import org.jebtk.bioinformatics.genomic.Genome;
+
+import dev.antonyholmes.matcalc.bio.GenomesPanel;
 import dev.antonyholmes.modern.UI;
 import dev.antonyholmes.modern.dialog.ModernDialogHelpWindow;
 import dev.antonyholmes.modern.panel.HBox;
@@ -16,8 +18,6 @@ import dev.antonyholmes.modern.spinner.ModernCompactSpinner;
 import dev.antonyholmes.modern.text.ModernAutoSizeLabel;
 import dev.antonyholmes.modern.window.ModernWindow;
 import dev.antonyholmes.modern.window.WindowWidgetFocusEvents;
-
-import edu.columbia.rdf.matcalc.bio.GenomesPanel;
 
 /**
  * Control which conservation scores are shown.

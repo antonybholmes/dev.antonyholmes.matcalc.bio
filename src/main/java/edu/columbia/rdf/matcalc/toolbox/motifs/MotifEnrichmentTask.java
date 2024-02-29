@@ -11,11 +11,12 @@ import org.jebtk.bioinformatics.motifs.Motif;
 import org.jebtk.core.Mathematics;
 import org.jebtk.math.matrix.DataFrame;
 import org.jebtk.math.statistics.Hypergeometric;
+
+import dev.antonyholmes.matcalc.bio.SearchSequence;
+import dev.antonyholmes.matcalc.bio.SequenceUtils;
 import dev.antonyholmes.modern.dialog.ModernMessageDialog;
 
 import edu.columbia.rdf.matcalc.MainMatCalcWindow;
-import edu.columbia.rdf.matcalc.bio.SearchSequence;
-import edu.columbia.rdf.matcalc.bio.SequenceUtils;
 
 public class MotifEnrichmentTask extends SwingWorker<Void, Void> {
 

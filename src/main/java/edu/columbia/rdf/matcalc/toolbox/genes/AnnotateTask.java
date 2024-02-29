@@ -26,8 +26,8 @@ import org.jebtk.core.text.Join;
 import org.jebtk.core.text.TextUtils;
 import org.jebtk.math.matrix.DataFrame;
 
+import dev.antonyholmes.matcalc.bio.AnnotationService;
 import edu.columbia.rdf.matcalc.MainMatCalcWindow;
-import edu.columbia.rdf.matcalc.bio.AnnotationService;
 
 public class AnnotateTask extends SwingWorker<Void, Void> {
 

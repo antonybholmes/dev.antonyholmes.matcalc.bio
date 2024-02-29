@@ -11,6 +11,8 @@ import javax.swing.Box;
 import org.jebtk.bioinformatics.genomic.Genome;
 import org.jebtk.core.collections.CollectionUtils;
 import org.jebtk.core.text.Splitter;
+
+import dev.antonyholmes.matcalc.bio.AnnotationSidePanel;
 import dev.antonyholmes.modern.ModernWidget;
 import dev.antonyholmes.modern.UI;
 import dev.antonyholmes.modern.button.ModernCheckSwitch;
@@ -29,8 +31,6 @@ import dev.antonyholmes.modern.text.ModernTextBorderPanel;
 import dev.antonyholmes.modern.text.SuggestionTextBox;
 import dev.antonyholmes.modern.window.ModernWindow;
 import dev.antonyholmes.modern.window.WindowWidgetFocusEvents;
-
-import edu.columbia.rdf.matcalc.bio.AnnotationSidePanel;
 
 /**
  * Control which conservation scores are shown.

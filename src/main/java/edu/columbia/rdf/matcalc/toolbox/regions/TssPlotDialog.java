@@ -5,6 +5,8 @@ import java.text.ParseException;
 import javax.swing.Box;
 
 import org.jebtk.bioinformatics.genomic.Genome;
+
+import dev.antonyholmes.matcalc.bio.GenomeSidePanel;
 import dev.antonyholmes.modern.ModernWidget;
 import dev.antonyholmes.modern.UI;
 import dev.antonyholmes.modern.combobox.ModernComboBox;
@@ -16,8 +18,6 @@ import dev.antonyholmes.modern.spinner.ModernCompactSpinner;
 import dev.antonyholmes.modern.text.ModernAutoSizeLabel;
 import dev.antonyholmes.modern.window.ModernWindow;
 import dev.antonyholmes.modern.window.WindowWidgetFocusEvents;
-
-import edu.columbia.rdf.matcalc.bio.GenomeSidePanel;
 
 /**
  * Control which conservation scores are shown.

@@ -47,6 +47,9 @@ import org.jebtk.core.text.TextUtils;
 import org.jebtk.math.matrix.DataFrame;
 import org.jebtk.math.statistics.Statistics;
 import org.jebtk.math.ui.external.microsoft.XlsxGuiFileFilter;
+
+import dev.antonyholmes.matcalc.bio.Annotation;
+import dev.antonyholmes.matcalc.bio.AnnotationService;
 import dev.antonyholmes.modern.AssetService;
 import dev.antonyholmes.modern.button.ModernClickWidget;
 import dev.antonyholmes.modern.dataview.ModernDataModel;
@@ -67,8 +70,6 @@ import dev.antonyholmes.modern.ribbon.RibbonLargeDropDownButton2;
 import dev.antonyholmes.modern.tooltip.ModernToolTip;
 
 import edu.columbia.rdf.matcalc.MainMatCalcWindow;
-import edu.columbia.rdf.matcalc.bio.Annotation;
-import edu.columbia.rdf.matcalc.bio.AnnotationService;
 import edu.columbia.rdf.matcalc.toolbox.Module;
 import edu.columbia.rdf.matcalc.toolbox.core.venn.CircleStyle;
 import edu.columbia.rdf.matcalc.toolbox.core.venn.MainVennWindow;

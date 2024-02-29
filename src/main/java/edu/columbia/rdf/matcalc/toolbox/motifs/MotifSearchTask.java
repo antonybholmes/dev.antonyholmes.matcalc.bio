@@ -13,12 +13,13 @@ import org.jebtk.bioinformatics.genomic.Sequence;
 import org.jebtk.bioinformatics.motifs.Motif;
 import org.jebtk.core.text.Formatter;
 import org.jebtk.math.matrix.DataFrame;
+
+import dev.antonyholmes.matcalc.bio.SearchSequence;
+import dev.antonyholmes.matcalc.bio.SearchSequenceType;
+import dev.antonyholmes.matcalc.bio.SequenceUtils;
 import dev.antonyholmes.modern.dialog.ModernMessageDialog;
 
 import edu.columbia.rdf.matcalc.MainMatCalcWindow;
-import edu.columbia.rdf.matcalc.bio.SearchSequence;
-import edu.columbia.rdf.matcalc.bio.SearchSequenceType;
-import edu.columbia.rdf.matcalc.bio.SequenceUtils;
 
 public class MotifSearchTask extends SwingWorker<Void, Void> {
 

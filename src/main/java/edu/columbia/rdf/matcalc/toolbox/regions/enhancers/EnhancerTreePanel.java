@@ -19,6 +19,8 @@ import org.jebtk.core.tree.TreeNode;
 import org.jebtk.core.tree.TreeRootNode;
 import org.jebtk.database.DatabaseResultsTable;
 import org.jebtk.database.SqliteJDBCConnection;
+
+import dev.antonyholmes.matcalc.bio.Annotation;
 import dev.antonyholmes.modern.ModernComponent;
 import dev.antonyholmes.modern.ModernWidget;
 import dev.antonyholmes.modern.event.ModernClickEvent;
@@ -27,8 +29,6 @@ import dev.antonyholmes.modern.scrollpane.ModernScrollPane;
 import dev.antonyholmes.modern.scrollpane.ScrollBarPolicy;
 import dev.antonyholmes.modern.search.ModernSearchPanel;
 import dev.antonyholmes.modern.tree.ModernTree;
-
-import edu.columbia.rdf.matcalc.bio.Annotation;
 
 public class EnhancerTreePanel extends ModernWidget {
   private static final long serialVersionUID = 1L;

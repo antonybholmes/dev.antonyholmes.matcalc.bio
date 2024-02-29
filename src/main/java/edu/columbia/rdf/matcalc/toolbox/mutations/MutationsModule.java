@@ -37,6 +37,9 @@ import org.jebtk.bioinformatics.genomic.Mutation;
 import org.jebtk.math.external.microsoft.Excel;
 import org.jebtk.math.matrix.DataFrame;
 import org.jebtk.math.ui.external.microsoft.ExcelUI;
+
+import dev.antonyholmes.matcalc.bio.SearchSequence;
+import dev.antonyholmes.matcalc.bio.SequenceUtils;
 import dev.antonyholmes.modern.AssetService;
 import dev.antonyholmes.modern.dialog.ModernMessageDialog;
 import dev.antonyholmes.modern.event.ModernClickEvent;
@@ -45,8 +48,6 @@ import dev.antonyholmes.modern.io.RecentFilesService;
 import dev.antonyholmes.modern.ribbon.RibbonLargeButton;
 
 import edu.columbia.rdf.matcalc.MainMatCalcWindow;
-import edu.columbia.rdf.matcalc.bio.SearchSequence;
-import edu.columbia.rdf.matcalc.bio.SequenceUtils;
 import edu.columbia.rdf.matcalc.toolbox.Module;
  
 /**

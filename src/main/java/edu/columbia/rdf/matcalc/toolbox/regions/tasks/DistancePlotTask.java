@@ -13,8 +13,8 @@ import org.jebtk.core.io.Io;
 import org.jebtk.core.text.TextUtils;
 import org.jebtk.math.matrix.DataFrame;
 
+import dev.antonyholmes.matcalc.bio.Annotation;
 import edu.columbia.rdf.matcalc.MainMatCalcWindow;
-import edu.columbia.rdf.matcalc.bio.Annotation;
 
 public class DistancePlotTask extends SwingWorker<Void, Void> {
 

@@ -34,6 +34,9 @@ import org.jebtk.core.settings.SettingsService;
 import org.jebtk.core.text.Join;
 import org.jebtk.core.text.TextUtils;
 import org.jebtk.math.matrix.DataFrame;
+
+import dev.antonyholmes.matcalc.bio.FastaReaderModule;
+import dev.antonyholmes.matcalc.bio.FastaWriterModule;
 import dev.antonyholmes.modern.AssetService;
 import dev.antonyholmes.modern.UI;
 import dev.antonyholmes.modern.dialog.ModernDialogStatus;
@@ -51,8 +54,6 @@ import org.slf4j.LoggerFactory;
 
 import edu.columbia.rdf.matcalc.MainMatCalcWindow;
 import edu.columbia.rdf.matcalc.OpenMode;
-import edu.columbia.rdf.matcalc.bio.FastaReaderModule;
-import edu.columbia.rdf.matcalc.bio.FastaWriterModule;
 import edu.columbia.rdf.matcalc.toolbox.Module;
  
 public class DnaModule extends Module {
