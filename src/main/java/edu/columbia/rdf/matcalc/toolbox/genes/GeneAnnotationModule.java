@@ -1,4 +1,4 @@
-package edu.columbia.rdf.matcalc.toolbox.genes;
+package dev.antonyholmes.matcalc.toolbox.genes;
 
 import java.io.IOException;
 import java.util.List;
@@ -16,8 +16,8 @@ import dev.antonyholmes.modern.menu.ModernPopupMenu2;
 import dev.antonyholmes.modern.menu.ModernTwoLineMenuItem;
 import dev.antonyholmes.modern.ribbon.RibbonLargeDropDownButton2;
 
-import edu.columbia.rdf.matcalc.MainMatCalcWindow;
-import edu.columbia.rdf.matcalc.toolbox.Module;
+import dev.antonyholmes.matcalc.MainMatCalcWindow;
+import dev.antonyholmes.matcalc.toolbox.Module;
 
 public class GeneAnnotationModule extends Module implements ModernClickListener {
 

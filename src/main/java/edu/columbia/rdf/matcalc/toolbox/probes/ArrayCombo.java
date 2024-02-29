@@ -1,4 +1,4 @@
-package edu.columbia.rdf.matcalc.toolbox.probes;
+package dev.antonyholmes.matcalc.toolbox.probes;
 
 import java.io.IOException;
 import java.nio.file.Path;

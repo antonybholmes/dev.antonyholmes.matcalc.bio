@@ -1,4 +1,4 @@
-package edu.columbia.rdf.matcalc.toolbox.annotation;
+package dev.antonyholmes.matcalc.toolbox.annotation;
 
 import java.awt.Dimension;
 import java.util.Map;

@@ -25,7 +25,7 @@
  * ARISING IN ANY WAY OUT OF THE USE OF THIS SOFTWARE, EVEN IF ADVISED OF THE 
  * POSSIBILITY OF SUCH DAMAGE.
  */
-package edu.columbia.rdf.matcalc.toolbox.conversion;
+package dev.antonyholmes.matcalc.toolbox.conversion;
 
 import javax.swing.Box;
 

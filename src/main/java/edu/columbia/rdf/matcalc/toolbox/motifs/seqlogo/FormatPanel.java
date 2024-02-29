@@ -1,4 +1,4 @@
-package edu.columbia.rdf.matcalc.toolbox.motifs.seqlogo;
+package dev.antonyholmes.matcalc.toolbox.motifs.seqlogo;
 
 import java.awt.BorderLayout;
 import java.awt.Component;
@@ -14,7 +14,7 @@ import dev.antonyholmes.modern.tabs.TabsViewPanel;
 import dev.antonyholmes.modern.tabs.TextTabs;
 import dev.antonyholmes.modern.window.ModernWindow;
 
-import edu.columbia.rdf.matcalc.figure.AxisControl;
+import dev.antonyholmes.matcalc.figure.AxisControl;
 
 public class FormatPanel extends ModernWidget {
   private static final long serialVersionUID = 1L;

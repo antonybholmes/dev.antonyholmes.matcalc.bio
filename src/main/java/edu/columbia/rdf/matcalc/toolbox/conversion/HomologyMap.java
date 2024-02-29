@@ -13,7 +13,7 @@
  * See the License for the specific language governing permissions and
  * limitations under the License.
  */
-package edu.columbia.rdf.matcalc.toolbox.conversion;
+package dev.antonyholmes.matcalc.toolbox.conversion;
 
 import java.util.ArrayList;
 import java.util.List;

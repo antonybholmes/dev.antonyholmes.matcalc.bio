@@ -1,4 +1,4 @@
-package edu.columbia.rdf.matcalc.toolbox.motifs.seqlogo;
+package dev.antonyholmes.matcalc.toolbox.motifs.seqlogo;
 
 import java.awt.Color;
 import java.awt.Graphics2D;

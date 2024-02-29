@@ -1,4 +1,4 @@
-package edu.columbia.rdf.matcalc.toolbox.regions.enhancers;
+package dev.antonyholmes.matcalc.toolbox.regions.enhancers;
 
 import java.awt.Color;
 import java.awt.Graphics2D;

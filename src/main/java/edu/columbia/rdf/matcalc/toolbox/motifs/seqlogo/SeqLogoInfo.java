@@ -1,4 +1,4 @@
-package edu.columbia.rdf.matcalc.toolbox.motifs.seqlogo;
+package dev.antonyholmes.matcalc.toolbox.motifs.seqlogo;
 
 import org.jebtk.core.AppVersion;
 import dev.antonyholmes.modern.help.GuiAppInfo;

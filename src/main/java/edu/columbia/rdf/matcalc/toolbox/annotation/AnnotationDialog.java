@@ -1,4 +1,4 @@
-package edu.columbia.rdf.matcalc.toolbox.annotation;
+package dev.antonyholmes.matcalc.toolbox.annotation;
 
 import java.nio.file.Path;
 import java.util.ArrayList;

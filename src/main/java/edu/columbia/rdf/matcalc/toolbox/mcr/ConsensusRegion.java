@@ -25,7 +25,7 @@
  * ARISING IN ANY WAY OUT OF THE USE OF THIS SOFTWARE, EVEN IF ADVISED OF THE 
  * POSSIBILITY OF SUCH DAMAGE.
  */
-package edu.columbia.rdf.matcalc.toolbox.mcr;
+package dev.antonyholmes.matcalc.toolbox.mcr;
 
 import java.util.ArrayList;
 import java.util.Collection;

@@ -40,8 +40,8 @@ import dev.antonyholmes.modern.menu.ModernTwoLineMenuItem;
 import dev.antonyholmes.modern.ribbon.RibbonLargeDropDownButton2;
 import dev.antonyholmes.modern.theme.ThemeService;
 
-import edu.columbia.rdf.matcalc.MainMatCalcWindow;
-import edu.columbia.rdf.matcalc.toolbox.Module;
+import dev.antonyholmes.matcalc.MainMatCalcWindow;
+import dev.antonyholmes.matcalc.toolbox.Module;
 
 /**
  * Merges designated segments together using the merge column. Consecutive rows

@@ -1,4 +1,4 @@
-package edu.columbia.rdf.matcalc.toolbox.motifs;
+package dev.antonyholmes.matcalc.toolbox.motifs;
 
 public class Triplet implements Comparable<Triplet> {
   public int triplet;

@@ -1,4 +1,4 @@
-package edu.columbia.rdf.matcalc.toolbox.motifs;
+package dev.antonyholmes.matcalc.toolbox.motifs;
 
 import java.io.BufferedWriter;
 import java.io.IOException;
@@ -62,16 +62,16 @@ import dev.antonyholmes.modern.tabs.SizableTab;
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
 
-import edu.columbia.rdf.matcalc.FileType;
-import edu.columbia.rdf.matcalc.MainMatCalcWindow;
-import edu.columbia.rdf.matcalc.figure.graph2d.Graph2dWindow;
-import edu.columbia.rdf.matcalc.toolbox.core.io.IOModule;
+import dev.antonyholmes.matcalc.FileType;
+import dev.antonyholmes.matcalc.MainMatCalcWindow;
+import dev.antonyholmes.matcalc.figure.graph2d.Graph2dWindow;
+import dev.antonyholmes.matcalc.toolbox.core.io.IOModule;
  
-import edu.columbia.rdf.matcalc.toolbox.motifs.plot.BarBoxLayer;
-import edu.columbia.rdf.matcalc.toolbox.motifs.plot.MotifLayer;
-import edu.columbia.rdf.matcalc.toolbox.motifs.plot.TextLayer;
-import edu.columbia.rdf.matcalc.toolbox.motifs.seqlogo.MainSeqLogoWindow;
-import edu.columbia.rdf.matcalc.toolbox.motifs.seqlogo.SeqLogoIcon;
+import dev.antonyholmes.matcalc.toolbox.motifs.plot.BarBoxLayer;
+import dev.antonyholmes.matcalc.toolbox.motifs.plot.MotifLayer;
+import dev.antonyholmes.matcalc.toolbox.motifs.plot.TextLayer;
+import dev.antonyholmes.matcalc.toolbox.motifs.seqlogo.MainSeqLogoWindow;
+import dev.antonyholmes.matcalc.toolbox.motifs.seqlogo.SeqLogoIcon;
 
 public class MotifsModule extends IOModule implements ModernClickListener {
   public static final Logger LOG = LoggerFactory.getLogger(MotifsModule.class);

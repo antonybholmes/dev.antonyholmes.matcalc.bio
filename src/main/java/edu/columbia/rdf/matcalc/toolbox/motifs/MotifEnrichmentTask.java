@@ -1,4 +1,4 @@
-package edu.columbia.rdf.matcalc.toolbox.motifs;
+package dev.antonyholmes.matcalc.toolbox.motifs;
 
 import java.util.ArrayList;
 import java.util.Collections;
@@ -16,7 +16,7 @@ import dev.antonyholmes.matcalc.bio.SearchSequence;
 import dev.antonyholmes.matcalc.bio.SequenceUtils;
 import dev.antonyholmes.modern.dialog.ModernMessageDialog;
 
-import edu.columbia.rdf.matcalc.MainMatCalcWindow;
+import dev.antonyholmes.matcalc.MainMatCalcWindow;
 
 public class MotifEnrichmentTask extends SwingWorker<Void, Void> {
 

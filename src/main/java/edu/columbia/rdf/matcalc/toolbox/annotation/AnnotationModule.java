@@ -25,7 +25,7 @@
  * ARISING IN ANY WAY OUT OF THE USE OF THIS SOFTWARE, EVEN IF ADVISED OF THE 
  * POSSIBILITY OF SUCH DAMAGE.
  */
-package edu.columbia.rdf.matcalc.toolbox.annotation;
+package dev.antonyholmes.matcalc.toolbox.annotation;
 
 import java.io.IOException;
 import java.nio.file.Path;
@@ -68,8 +68,8 @@ import dev.antonyholmes.modern.tooltip.ModernToolTip;
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
 
-import edu.columbia.rdf.matcalc.MainMatCalcWindow;
-import edu.columbia.rdf.matcalc.toolbox.Module;
+import dev.antonyholmes.matcalc.MainMatCalcWindow;
+import dev.antonyholmes.matcalc.toolbox.Module;
  
 /**
  * Merges designated segments together using the merge column. Consecutive rows

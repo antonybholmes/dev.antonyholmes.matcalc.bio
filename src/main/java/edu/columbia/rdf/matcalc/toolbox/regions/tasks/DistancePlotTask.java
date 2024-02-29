@@ -1,4 +1,4 @@
-package edu.columbia.rdf.matcalc.toolbox.regions.tasks;
+package dev.antonyholmes.matcalc.toolbox.regions.tasks;
 
 import java.util.ArrayList;
 import java.util.List;
@@ -14,7 +14,7 @@ import org.jebtk.core.text.TextUtils;
 import org.jebtk.math.matrix.DataFrame;
 
 import dev.antonyholmes.matcalc.bio.Annotation;
-import edu.columbia.rdf.matcalc.MainMatCalcWindow;
+import dev.antonyholmes.matcalc.MainMatCalcWindow;
 
 public class DistancePlotTask extends SwingWorker<Void, Void> {
 

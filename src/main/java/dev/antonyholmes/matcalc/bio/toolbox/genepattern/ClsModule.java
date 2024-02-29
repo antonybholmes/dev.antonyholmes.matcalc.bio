@@ -46,8 +46,8 @@ import dev.antonyholmes.modern.io.GuiFileExtFilter;
 import dev.antonyholmes.modern.io.RecentFilesService;
 import dev.antonyholmes.modern.ribbon.RibbonLargeButton;
 
-import edu.columbia.rdf.matcalc.MainMatCalcWindow;
-import edu.columbia.rdf.matcalc.toolbox.core.io.IOModule;
+import dev.antonyholmes.matcalc.MainMatCalcWindow;
+import dev.antonyholmes.matcalc.toolbox.core.io.IOModule;
 
 /**
  * The class BoxWhiskerPlotModule.

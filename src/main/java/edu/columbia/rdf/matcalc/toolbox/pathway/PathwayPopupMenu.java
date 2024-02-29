@@ -1,4 +1,4 @@
-package edu.columbia.rdf.matcalc.toolbox.pathway;
+package dev.antonyholmes.matcalc.toolbox.pathway;
 
 import java.awt.BorderLayout;
 import java.nio.file.Path;

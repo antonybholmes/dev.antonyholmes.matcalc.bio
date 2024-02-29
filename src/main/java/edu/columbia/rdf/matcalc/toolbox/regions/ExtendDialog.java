@@ -1,4 +1,4 @@
-package edu.columbia.rdf.matcalc.toolbox.regions;
+package dev.antonyholmes.matcalc.toolbox.regions;
 
 import javax.swing.Box;
 

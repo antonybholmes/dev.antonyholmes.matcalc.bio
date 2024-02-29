@@ -1,4 +1,4 @@
-package edu.columbia.rdf.matcalc.toolbox.motifs;
+package dev.antonyholmes.matcalc.toolbox.motifs;
 
 import java.io.IOException;
 import java.util.ArrayList;
@@ -19,7 +19,7 @@ import dev.antonyholmes.matcalc.bio.SearchSequenceType;
 import dev.antonyholmes.matcalc.bio.SequenceUtils;
 import dev.antonyholmes.modern.dialog.ModernMessageDialog;
 
-import edu.columbia.rdf.matcalc.MainMatCalcWindow;
+import dev.antonyholmes.matcalc.MainMatCalcWindow;
 
 public class MotifSearchTask extends SwingWorker<Void, Void> {
 

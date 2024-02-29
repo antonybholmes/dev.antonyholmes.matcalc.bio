@@ -1,4 +1,4 @@
-package edu.columbia.rdf.matcalc.toolbox.dna;
+package dev.antonyholmes.matcalc.toolbox.dna;
 
 import org.jebtk.bioinformatics.genomic.DNA;
 import org.jebtk.bioinformatics.genomic.RepeatMaskType;

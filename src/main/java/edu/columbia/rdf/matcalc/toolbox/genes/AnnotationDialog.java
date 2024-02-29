@@ -1,4 +1,4 @@
-package edu.columbia.rdf.matcalc.toolbox.genes;
+package dev.antonyholmes.matcalc.toolbox.genes;
 
 import java.awt.event.FocusEvent;
 import java.awt.event.FocusListener;

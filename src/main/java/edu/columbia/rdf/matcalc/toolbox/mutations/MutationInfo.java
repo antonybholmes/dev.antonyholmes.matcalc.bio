@@ -25,7 +25,7 @@
  * ARISING IN ANY WAY OUT OF THE USE OF THIS SOFTWARE, EVEN IF ADVISED OF THE 
  * POSSIBILITY OF SUCH DAMAGE.
  */
-package edu.columbia.rdf.matcalc.toolbox.mutations;
+package dev.antonyholmes.matcalc.toolbox.mutations;
 
 import org.jebtk.core.AppVersion;
 import dev.antonyholmes.modern.AssetService;

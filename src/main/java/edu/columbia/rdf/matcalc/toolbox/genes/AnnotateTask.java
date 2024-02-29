@@ -1,4 +1,4 @@
-package edu.columbia.rdf.matcalc.toolbox.genes;
+package dev.antonyholmes.matcalc.toolbox.genes;
 
 import java.io.IOException;
 import java.text.ParseException;
@@ -27,7 +27,7 @@ import org.jebtk.core.text.TextUtils;
 import org.jebtk.math.matrix.DataFrame;
 
 import dev.antonyholmes.matcalc.bio.AnnotationService;
-import edu.columbia.rdf.matcalc.MainMatCalcWindow;
+import dev.antonyholmes.matcalc.MainMatCalcWindow;
 
 public class AnnotateTask extends SwingWorker<Void, Void> {
 

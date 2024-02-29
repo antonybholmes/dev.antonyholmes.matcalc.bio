@@ -1,4 +1,4 @@
-package edu.columbia.rdf.matcalc.toolbox.motifs;
+package dev.antonyholmes.matcalc.toolbox.motifs;
 
 import java.util.List;
 
@@ -30,8 +30,8 @@ import dev.antonyholmes.modern.window.ModernWindow;
 import dev.antonyholmes.modern.window.WindowService;
 import dev.antonyholmes.modern.window.WindowWidgetFocusEvents;
 
-import edu.columbia.rdf.matcalc.MainMatCalcWindow;
-import edu.columbia.rdf.matcalc.MatCalcWindowCombo;
+import dev.antonyholmes.matcalc.MainMatCalcWindow;
+import dev.antonyholmes.matcalc.MatCalcWindowCombo;
 
 /**
  * Options for motif searching.

@@ -1,4 +1,4 @@
-package edu.columbia.rdf.matcalc.toolbox.dna;
+package dev.antonyholmes.matcalc.toolbox.dna;
 
 import java.io.IOException;
 import java.nio.file.Path;
@@ -52,9 +52,9 @@ import dev.antonyholmes.modern.status.StatusService;
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
 
-import edu.columbia.rdf.matcalc.MainMatCalcWindow;
-import edu.columbia.rdf.matcalc.OpenMode;
-import edu.columbia.rdf.matcalc.toolbox.Module;
+import dev.antonyholmes.matcalc.MainMatCalcWindow;
+import dev.antonyholmes.matcalc.OpenMode;
+import dev.antonyholmes.matcalc.toolbox.Module;
  
 public class DnaModule extends Module {
   public static final Logger LOG = LoggerFactory.getLogger(DnaModule.class);

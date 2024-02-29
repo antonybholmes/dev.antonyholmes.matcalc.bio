@@ -19,7 +19,7 @@ import dev.antonyholmes.matcalc.bio.toolbox.external.ucsc.BedGraphIOModule;
 import dev.antonyholmes.matcalc.bio.toolbox.external.ucsc.BedIOModule;
 import dev.antonyholmes.matcalc.bio.toolbox.genepattern.io.GctIOModule;
 import dev.antonyholmes.matcalc.bio.toolbox.genepattern.io.ResIOModule;
-import edu.columbia.rdf.matcalc.BasicModuleLoader;
+import dev.antonyholmes.matcalc.BasicModuleLoader;
 
 public class BioModuleLoader extends BasicModuleLoader {
   public BioModuleLoader() {

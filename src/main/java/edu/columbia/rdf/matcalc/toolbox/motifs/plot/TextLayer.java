@@ -1,4 +1,4 @@
-package edu.columbia.rdf.matcalc.toolbox.motifs.plot;
+package dev.antonyholmes.matcalc.toolbox.motifs.plot;
 
 import java.awt.Color;
 import java.awt.Graphics2D;

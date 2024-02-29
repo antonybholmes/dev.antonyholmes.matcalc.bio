@@ -1,4 +1,4 @@
-package edu.columbia.rdf.matcalc.toolbox.motifs;
+package dev.antonyholmes.matcalc.toolbox.motifs;
 
 import java.util.List;
 
@@ -33,7 +33,7 @@ import dev.antonyholmes.modern.text.ModernAutoSizeLabel;
 import dev.antonyholmes.modern.window.ModernWindow;
 import dev.antonyholmes.modern.window.WindowWidgetFocusEvents;
 
-import edu.columbia.rdf.matcalc.toolbox.motifs.seqlogo.BaseDialog;
+import dev.antonyholmes.matcalc.toolbox.motifs.seqlogo.BaseDialog;
 
 public class MotifSearchDialog extends ModernDialogHelpWindow {
   private static final long serialVersionUID = 1L;

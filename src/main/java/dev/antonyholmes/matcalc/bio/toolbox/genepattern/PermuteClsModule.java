@@ -50,8 +50,8 @@ import dev.antonyholmes.modern.event.ModernClickListener;
 import dev.antonyholmes.modern.io.RecentFilesService;
 import dev.antonyholmes.modern.ribbon.RibbonLargeButton;
 
-import edu.columbia.rdf.matcalc.MainMatCalcWindow;
-import edu.columbia.rdf.matcalc.toolbox.Module;
+import dev.antonyholmes.matcalc.MainMatCalcWindow;
+import dev.antonyholmes.matcalc.toolbox.Module;
 
 /**
  * The class BoxWhiskerPlotModule.

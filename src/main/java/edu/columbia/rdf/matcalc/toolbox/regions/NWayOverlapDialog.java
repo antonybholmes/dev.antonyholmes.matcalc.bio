@@ -1,4 +1,4 @@
-package edu.columbia.rdf.matcalc.toolbox.regions;
+package dev.antonyholmes.matcalc.toolbox.regions;
 
 import java.nio.file.Path;
 import java.util.List;
@@ -26,7 +26,7 @@ import dev.antonyholmes.modern.io.TsvGuiFileFilter;
 import dev.antonyholmes.modern.panel.VBox;
 import dev.antonyholmes.modern.window.WindowWidgetFocusEvents;
 
-import edu.columbia.rdf.matcalc.MainMatCalcWindow;
+import dev.antonyholmes.matcalc.MainMatCalcWindow;
 
 /**
  * Control which conservation scores are shown.

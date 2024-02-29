@@ -1,4 +1,4 @@
-package edu.columbia.rdf.matcalc.toolbox.probes;
+package dev.antonyholmes.matcalc.toolbox.probes;
 
 import dev.antonyholmes.modern.ColorTheme;
 import dev.antonyholmes.modern.graphics.icons.ModernApplicationIcon;

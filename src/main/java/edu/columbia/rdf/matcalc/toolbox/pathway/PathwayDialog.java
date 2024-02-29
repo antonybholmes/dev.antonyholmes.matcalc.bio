@@ -1,4 +1,4 @@
-package edu.columbia.rdf.matcalc.toolbox.pathway;
+package dev.antonyholmes.matcalc.toolbox.pathway;
 
 import java.io.IOException;
 import java.nio.file.Path;

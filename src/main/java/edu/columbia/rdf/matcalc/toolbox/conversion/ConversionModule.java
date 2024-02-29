@@ -25,7 +25,7 @@
  * ARISING IN ANY WAY OUT OF THE USE OF THIS SOFTWARE, EVEN IF ADVISED OF THE 
  * POSSIBILITY OF SUCH DAMAGE.
  */
-package edu.columbia.rdf.matcalc.toolbox.conversion;
+package dev.antonyholmes.matcalc.toolbox.conversion;
 
 import java.io.IOException;
 import java.nio.file.Path;
@@ -54,8 +54,8 @@ import dev.antonyholmes.modern.graphics.icons.RunVectorIcon;
 import dev.antonyholmes.modern.ribbon.RibbonLargeButton;
 import dev.antonyholmes.modern.tooltip.ModernToolTip;
 
-import edu.columbia.rdf.matcalc.MainMatCalcWindow;
-import edu.columbia.rdf.matcalc.toolbox.Module;
+import dev.antonyholmes.matcalc.MainMatCalcWindow;
+import dev.antonyholmes.matcalc.toolbox.Module;
 
 // TODO: Auto-generated Javadoc
 /**

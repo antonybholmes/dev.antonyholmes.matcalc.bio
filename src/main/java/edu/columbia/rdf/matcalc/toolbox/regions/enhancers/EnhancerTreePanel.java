@@ -1,4 +1,4 @@
-package edu.columbia.rdf.matcalc.toolbox.regions.enhancers;
+package dev.antonyholmes.matcalc.toolbox.regions.enhancers;
 
 import java.io.IOException;
 import java.sql.PreparedStatement;

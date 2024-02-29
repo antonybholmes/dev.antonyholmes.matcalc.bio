@@ -1,4 +1,4 @@
-package edu.columbia.rdf.matcalc.toolbox.genes.info;
+package dev.antonyholmes.matcalc.toolbox.genes.info;
 
 import org.jebtk.math.matrix.DataFrame;
 import dev.antonyholmes.modern.ModernWidget;
@@ -9,7 +9,7 @@ import dev.antonyholmes.modern.panel.MatrixPanel;
 import dev.antonyholmes.modern.text.ModernAutoSizeLabel;
 import dev.antonyholmes.modern.window.ModernWindow;
 
-import edu.columbia.rdf.matcalc.toolbox.ColumnsCombo;
+import dev.antonyholmes.matcalc.toolbox.ColumnsCombo;
 
 public class GeneInfoDialog extends ModernDialogTaskWindow {
   private static final long serialVersionUID = 1L;

@@ -1,4 +1,4 @@
-package edu.columbia.rdf.matcalc.toolbox.regions.plot.tss;
+package dev.antonyholmes.matcalc.toolbox.regions.plot.tss;
 
 import java.awt.Color;
 import java.text.DecimalFormat;

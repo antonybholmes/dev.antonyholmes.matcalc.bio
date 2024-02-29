@@ -1,4 +1,4 @@
-package edu.columbia.rdf.matcalc.toolbox.motifs.seqlogo;
+package dev.antonyholmes.matcalc.toolbox.motifs.seqlogo;
 
 import org.jebtk.bioinformatics.genomic.SequenceService;
 import dev.antonyholmes.modern.UI;

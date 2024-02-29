@@ -9,7 +9,7 @@ import dev.antonyholmes.modern.panel.MatrixPanel;
 import dev.antonyholmes.modern.text.ModernAutoSizeLabel;
 import dev.antonyholmes.modern.window.ModernWindow;
 
-import edu.columbia.rdf.matcalc.MatrixRowAnnotationCombo;
+import dev.antonyholmes.matcalc.MatrixRowAnnotationCombo;
 
 public class ProbeLocationsDialog extends ModernDialogTaskWindow {
   private static final long serialVersionUID = 1L;

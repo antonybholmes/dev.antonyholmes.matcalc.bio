@@ -1,4 +1,4 @@
-package edu.columbia.rdf.matcalc.toolbox.genes.info;
+package dev.antonyholmes.matcalc.toolbox.genes.info;
 
 import java.io.BufferedReader;
 import java.io.IOException;
@@ -25,8 +25,8 @@ import dev.antonyholmes.modern.event.ModernClickEvent;
 import dev.antonyholmes.modern.event.ModernClickListener;
 import dev.antonyholmes.modern.ribbon.RibbonLargeButton;
 
-import edu.columbia.rdf.matcalc.MainMatCalcWindow;
-import edu.columbia.rdf.matcalc.toolbox.Module;
+import dev.antonyholmes.matcalc.MainMatCalcWindow;
+import dev.antonyholmes.matcalc.toolbox.Module;
 
 public class GeneInfoModule extends Module implements ModernClickListener {
 

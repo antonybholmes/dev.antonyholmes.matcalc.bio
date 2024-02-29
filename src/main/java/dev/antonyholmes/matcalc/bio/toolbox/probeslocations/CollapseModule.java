@@ -12,10 +12,10 @@ import dev.antonyholmes.modern.event.ModernClickEvent;
 import dev.antonyholmes.modern.event.ModernClickListener;
 import dev.antonyholmes.modern.ribbon.RibbonLargeButton;
 
-import edu.columbia.rdf.matcalc.MainMatCalcWindow;
-import edu.columbia.rdf.matcalc.toolbox.Module;
-import edu.columbia.rdf.matcalc.toolbox.core.collapse.CollapseDialog;
-import edu.columbia.rdf.matcalc.toolbox.core.collapse.CollapseType;
+import dev.antonyholmes.matcalc.MainMatCalcWindow;
+import dev.antonyholmes.matcalc.toolbox.Module;
+import dev.antonyholmes.matcalc.toolbox.core.collapse.CollapseDialog;
+import dev.antonyholmes.matcalc.toolbox.core.collapse.CollapseType;
 
 public class CollapseModule extends Module implements ModernClickListener {
   private MainMatCalcWindow mWindow;

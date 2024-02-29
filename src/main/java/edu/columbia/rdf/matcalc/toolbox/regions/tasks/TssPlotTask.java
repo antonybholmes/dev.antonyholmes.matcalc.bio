@@ -1,4 +1,4 @@
-package edu.columbia.rdf.matcalc.toolbox.regions.tasks;
+package dev.antonyholmes.matcalc.toolbox.regions.tasks;
 
 import java.io.IOException;
 import java.util.ArrayList;
@@ -23,10 +23,10 @@ import org.jebtk.math.matrix.DataFrame;
 import org.jebtk.math.statistics.HistBin;
 import org.jebtk.math.statistics.Statistics;
 
-import edu.columbia.rdf.matcalc.MainMatCalcWindow;
-import edu.columbia.rdf.matcalc.figure.graph2d.Graph2dWindow;
-import edu.columbia.rdf.matcalc.toolbox.regions.plot.tss.Log10TssSubFigure;
-import edu.columbia.rdf.matcalc.toolbox.regions.plot.tss.TssSubFigure;
+import dev.antonyholmes.matcalc.MainMatCalcWindow;
+import dev.antonyholmes.matcalc.figure.graph2d.Graph2dWindow;
+import dev.antonyholmes.matcalc.toolbox.regions.plot.tss.Log10TssSubFigure;
+import dev.antonyholmes.matcalc.toolbox.regions.plot.tss.TssSubFigure;
 
 /**
  * Overlap segments.

@@ -1,4 +1,4 @@
-package edu.columbia.rdf.matcalc.toolbox.motifs;
+package dev.antonyholmes.matcalc.toolbox.motifs;
 
 import java.util.ArrayList;
 import java.util.List;
@@ -17,7 +17,7 @@ import org.jebtk.math.statistics.Statistics;
 
 import dev.antonyholmes.matcalc.bio.SearchSequence;
 import dev.antonyholmes.matcalc.bio.SequenceUtils;
-import edu.columbia.rdf.matcalc.MainMatCalcWindow;
+import dev.antonyholmes.matcalc.MainMatCalcWindow;
 
 public class GCBackgroundTask extends SwingWorker<Void, Void> {
 

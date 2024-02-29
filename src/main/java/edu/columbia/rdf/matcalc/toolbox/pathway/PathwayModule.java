@@ -25,7 +25,7 @@
  * ARISING IN ANY WAY OUT OF THE USE OF THIS SOFTWARE, EVEN IF ADVISED OF THE 
  * POSSIBILITY OF SUCH DAMAGE.
  */
-package edu.columbia.rdf.matcalc.toolbox.pathway;
+package dev.antonyholmes.matcalc.toolbox.pathway;
 
 import java.awt.FontFormatException;
 import java.io.IOException;
@@ -56,8 +56,8 @@ import dev.antonyholmes.modern.event.ModernClickListener;
 import dev.antonyholmes.modern.ribbon.RibbonLargeButton;
 import org.xml.sax.SAXException;
 
-import edu.columbia.rdf.matcalc.MainMatCalcWindow;
-import edu.columbia.rdf.matcalc.toolbox.Module;
+import dev.antonyholmes.matcalc.MainMatCalcWindow;
+import dev.antonyholmes.matcalc.toolbox.Module;
  
 /**
  * Merges designated segments together using the merge column. Consecutive rows

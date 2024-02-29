@@ -31,7 +31,7 @@ import dev.antonyholmes.modern.text.ModernTextField;
 import dev.antonyholmes.modern.window.ModernWindow;
 import dev.antonyholmes.modern.window.WindowWidgetFocusEvents;
 
-import edu.columbia.rdf.matcalc.GroupsCombo;
+import dev.antonyholmes.matcalc.GroupsCombo;
 
 public class PermuteDialog extends ModernDialogTaskWindow {
   private static final long serialVersionUID = 1L;

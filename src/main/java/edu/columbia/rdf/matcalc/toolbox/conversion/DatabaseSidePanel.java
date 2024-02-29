@@ -1,4 +1,4 @@
-package edu.columbia.rdf.matcalc.toolbox.conversion;
+package dev.antonyholmes.matcalc.toolbox.conversion;
 
 import java.io.IOException;
 import java.util.HashMap;

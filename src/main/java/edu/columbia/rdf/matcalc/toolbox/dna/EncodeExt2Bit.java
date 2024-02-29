@@ -1,4 +1,4 @@
-package edu.columbia.rdf.matcalc.toolbox.dna;
+package dev.antonyholmes.matcalc.toolbox.dna;
 
 import java.io.BufferedReader;
 import java.io.BufferedWriter;

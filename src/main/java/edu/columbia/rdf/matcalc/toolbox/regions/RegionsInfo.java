@@ -1,4 +1,4 @@
-package edu.columbia.rdf.matcalc.toolbox.regions;
+package dev.antonyholmes.matcalc.toolbox.regions;
 
 import org.jebtk.core.AppVersion;
 import dev.antonyholmes.modern.AssetService;

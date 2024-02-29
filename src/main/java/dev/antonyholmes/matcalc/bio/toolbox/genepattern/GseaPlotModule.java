@@ -68,9 +68,9 @@ import dev.antonyholmes.modern.io.RecentFilesService;
 import dev.antonyholmes.modern.ribbon.RibbonLargeButton;
 import org.xml.sax.SAXException;
 
-import edu.columbia.rdf.matcalc.MainMatCalcWindow;
-import edu.columbia.rdf.matcalc.figure.graph2d.Graph2dWindow;
-import edu.columbia.rdf.matcalc.toolbox.Module;
+import dev.antonyholmes.matcalc.MainMatCalcWindow;
+import dev.antonyholmes.matcalc.figure.graph2d.Graph2dWindow;
+import dev.antonyholmes.matcalc.toolbox.Module;
 
 /**
  * The class BoxWhiskerPlotModule.

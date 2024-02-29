@@ -1,4 +1,4 @@
-package edu.columbia.rdf.matcalc.toolbox.motifs;
+package dev.antonyholmes.matcalc.toolbox.motifs;
 
 import org.jebtk.core.AppVersion;
 import dev.antonyholmes.modern.help.GuiAppInfo;
